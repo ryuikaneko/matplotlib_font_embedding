@@ -1,0 +1,44 @@
+
+fig_cmr.pdf
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+CMMI12                               Type 1            Builtin          yes no  no      14  0
+CMR17                                Type 1            Builtin          yes no  no      18  0
+
+fig_helvetica.pdf
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+ONIYXY+Helvetica                     CID TrueType      Identity-H       yes yes yes      6  0
+SAJAED+Helvetica-Oblique             CID TrueType      Identity-H       yes yes yes      8  0
+
+fig_helvetica_2.pdf
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+BCOHWU+Helvetica                     CID TrueType      Identity-H       yes yes yes      6  0
+RYYINN+Helvetica-Oblique             CID TrueType      Identity-H       yes yes yes      8  0
+
+fig_helvetica_like.pdf
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+NimbusSanL-Regu                      Type 1            Custom           yes no  no      14  0
+NimbusSanL-ReguItal                  Type 1            Custom           yes no  no      18  0
+
+fig_japanese_hiragino_sans.pdf
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+KSSNDX+CMR17                         Type 1            Builtin          yes yes no      11  0
+LPELJM+HiraginoSans-W4               CID Type 0C       Identity-H       yes yes yes     12  0
+FYFMEZ+CMMI12                        Type 1            Builtin          yes yes no      13  0
+OLAZTU+LMRoman12-Regular             CID Type 0C       Identity-H       yes yes yes     14  0
+
+fig_times.pdf
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+RAIJLR+Times-Roman                   CID TrueType      Identity-H       yes yes yes      6  0
+YHPIVP+Times-Italic                  CID TrueType      Identity-H       yes yes yes      8  0
+
+fig_times_like.pdf
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+NimbusRomNo9L-Regu                   Type 1            Custom           yes no  no      14  0
+NimbusRomNo9L-ReguItal               Type 1            Custom           yes no  no      18  0
